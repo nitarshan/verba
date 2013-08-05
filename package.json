@@ -1,0 +1,18 @@
+{
+  "name": "verba",
+  "version": "0.9.0",
+  "description": "A simple blog engine for node.js",
+  "main": "./verba.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nitarshanr/verba.git"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "author": "Nitarshan Rajkumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nitarshanr/verba/issues"
+  }
+}
